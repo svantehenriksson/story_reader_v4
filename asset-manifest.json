@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/story_reader_v4/static/css/main.4dba4228.css",
+    "main.js": "/story_reader_v4/static/js/main.606256c3.js",
+    "static/js/453.95348908.chunk.js": "/story_reader_v4/static/js/453.95348908.chunk.js",
+    "index.html": "/story_reader_v4/index.html",
+    "main.4dba4228.css.map": "/story_reader_v4/static/css/main.4dba4228.css.map",
+    "main.606256c3.js.map": "/story_reader_v4/static/js/main.606256c3.js.map",
+    "453.95348908.chunk.js.map": "/story_reader_v4/static/js/453.95348908.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dba4228.css",
+    "static/js/main.606256c3.js"
+  ]
+}
